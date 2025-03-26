@@ -1,0 +1,3 @@
+solido
+liqudo
+gaseoso
